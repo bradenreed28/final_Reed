@@ -1,0 +1,61 @@
+/*This is the affiliated CSS sheet for final_template.html.*/
+
+h1 {
+	font-family: "Balto",sans-serif;
+	font-size: 50px;
+    font-style: normal;
+    font-weight: 700;
+    letter-spacing: .012em;
+    line-height: 1.1;
+    text-transform: none;
+    margin-bottom: 0.6rem;
+    padding-left: 20px;
+    padding-top: 40px;
+    color: #3b3b3b;
+}
+.byline{
+	font-family: 'Helvetica Neue', sans-serif;
+	padding-left: 22px;
+	color: #3b3b3b;
+}
+h3 {
+	font-family: "Balto",sans-serif;
+	font-size: 25px;
+    font-style: normal;
+    font-weight: 700;
+    letter-spacing: .012em;
+    line-height: 1.1;
+    text-transform: none;
+}
+p {
+	font-family: 'Helvetica Neue', sans-serif;
+}
+
+.lead {
+	font-family: 'Helvetica Neue', sans-serif;
+	margin-left: 20px;
+	margin-right: 20px;
+}
+.accordion {
+	margin-bottom: 30px;
+}
+.accordion-button {
+	font-weight: bold;
+}
+.fixed-bottom {
+	margin-top: 30px;
+	padding: 5px;
+	text-align: center;
+}
+mark {
+  background-color: yellow;
+  color: black;
+}
+.center {
+	display: block;
+  	margin-left: auto;
+  	margin-right: auto;
+}
+.figure-caption {
+	padding-top: 10px;
+}
