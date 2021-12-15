@@ -3,15 +3,15 @@
 h1 {
 	font-family: "Balto",sans-serif;
 	font-size: 50px;
-    font-style: normal;
-    font-weight: 700;
-    letter-spacing: .012em;
-    line-height: 1.1;
-    text-transform: none;
-    margin-bottom: 0.6rem;
-    padding-left: 20px;
-    padding-top: 40px;
-    color: #3b3b3b;
+  font-style: normal;
+  font-weight: 700;
+  letter-spacing: .012em;
+  line-height: 1.1;
+  text-transform: none;
+  margin-bottom: 0.6rem;
+  padding-left: 20px;
+  padding-top: 30px;
+  color: #3b3b3b;
 }
 .byline{
 	font-family: 'Helvetica Neue', sans-serif;
@@ -21,11 +21,12 @@ h1 {
 h3 {
 	font-family: "Balto",sans-serif;
 	font-size: 25px;
-    font-style: normal;
-    font-weight: 700;
-    letter-spacing: .012em;
-    line-height: 1.1;
-    text-transform: none;
+  font-style: normal;
+  font-weight: 700;
+  letter-spacing: .012em;
+  line-height: 1.1;
+  text-transform: none;
+  padding-bottom: 4px;
 }
 p {
 	font-family: 'Helvetica Neue', sans-serif;
@@ -58,4 +59,23 @@ mark {
 }
 .figure-caption {
 	padding-top: 10px;
+}
+.explain {
+	padding-left: 300px;
+	padding-right: 300px;
+	text-align: center;
+	font-size: 18px;
+}
+.jumbotron {
+	font-size: 18px;
+	font-style: italic;
+	padding-top: 7px;
+	padding-bottom: 7px;
+}
+.header-caption {
+	padding-top: 10px;
+	padding-left: 220px;
+	font-size: .875em;
+  color: #6c757d;
+  font-family: 'Helvetica Neue', sans-serif;
 }
